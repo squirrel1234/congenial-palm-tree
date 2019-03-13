@@ -1,7 +1,7 @@
 
 /**
  * Write a description of class secretformula here.
- *
+ *this is a new secret formula
  * @author (your name)
  * @version (a version number or a date)
  */
